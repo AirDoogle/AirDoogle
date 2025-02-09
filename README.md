@@ -14,7 +14,7 @@
 
 #### Projects
 
-- [**python_masters_thesis_metabolic_modeling**](https://github.com/DouglasWoollam/thesis-project): Repository for Python & R scripts and results from my MSc thesis. Used ```numpy```, ```pandas```, ```sklearn```, ```matplotlib``` and ```seaborn```. Featuring statistical analysis, principal component analysis (PCA), metabolic modeling, k-means clustering, significance & multiple testing, reaction pathway analysis. To uncover biological insights from gene & clinical data.
+- [**python_masters_thesis_metabolic_modeling**](https://github.com/AirDoogle/python_masters_thesis_metabolic_modeling): Repository for Python & R scripts and results from my MSc thesis. Used ```numpy```, ```pandas```, ```sklearn```, ```matplotlib``` and ```seaborn```. Featuring statistical analysis, principal component analysis (PCA), metabolic modeling, k-means clustering, significance & multiple testing, reaction pathway analysis. To uncover biological insights from gene & clinical data.
 
 ---
 
